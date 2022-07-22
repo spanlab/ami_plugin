@@ -1,1 +1,1 @@
-This is your Chrome extension which filters out a percentage of Twitter posts with a certain affective type.
+This is a Chrome extension which gives you a break down of the affective content on Twitter.
