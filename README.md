@@ -1,2 +1,1 @@
-# ami_plugin
-affect_mix_index_plugin
+This is your Chrome extension which filters out a percentage of Twitter posts with a certain affective type.

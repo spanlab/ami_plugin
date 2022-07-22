@@ -1,0 +1,30 @@
+timeline... if we can get the data output function by the end of next week that would be AWESOME
+
+features:
+- get data out (json csv) 
+	-category breakdown based on the twitter page you are viewing and specified number of tweets
+		-example: source:FoxNews, column for each category, column for number of tweets, column for percentage (this one being priority number one)
+
+- get background javascript scrolling to work so we can:
+	- add buttons giving you x number of tweets to breakdown
+	- 50 tweets - 100 tweets - 150 tweets -200 tweets
+	-(maybe this is easier to do by giving the data to web sourced js script?)
+
+- add emojis at midpoint of each arc (I can send link of video, i almost had it working)
+
+
+- auto refresh the piechart when it detects we are on a new feed
+- auto turn on view tweets by latest instead of top tweets (its a setting you click on the homepage)
+
+- send data to the chrome plugin
+	- maybe makes the design cleaner
+
+- dark mode compatible 
+ 
+- integrate a settings menu into the piechart
+- different display options
+- get open source copy right
+	- he wants people to be able to use it for free but also get credit for creating the tool
+		- citations or people adding to it
+
+

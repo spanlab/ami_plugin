@@ -1,0 +1,39 @@
+{
+    "manifest_version": 2,
+    "name": "CALM",
+    "description": "Computational Assessment and Limitation of Madness",
+    "permissions": ["tabs", "*://*.twitter.com/*"],
+    "version": "1.0",
+    "icons": {
+        "16": "icon/image16.png",
+        "32": "icon/image32.png",
+        "48": "icon/image48.png",
+        "64": "icon/image64.png",
+        "128": "icon/image128.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.twitter.com/*"
+            ],
+            "js": [
+                "sentiment.js",
+                "content.js",
+                "popup.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "background":{
+        "scripts": [
+            // "badge.js",
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        // "default_popup": "main.html",
+        "default_icon": "icon/image128.png"
+    },
+    "content_security_policy":"script-src 'self' https://apis.google.com; object-src 'self'"
+}
