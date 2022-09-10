@@ -3,15 +3,15 @@
 As of now this only works on chrome.
 
 You do not need a twitter account for this to work.
-If you dont have an account you can go here: https://twitter.com/explore
+If you don't have an account you can go here: https://twitter.com/explore
 
-It will over lay on twitters UI so you need to make your web page bigger in order to see the ami breakdown piechart. (working to code different adaptive display options)
+AMI will overlay a continuously updated graphic on twitters UI to show you the affective breakdown of the current twitter page. (working to code different adaptive display options)
 
-Every time you visit a different twitter feed or page on twitter you must reload the page so that the ami pie chart refreshes with a count of that pages content
+Every time you visit a different twitter feed or page on twitter you must reload the page so that the AMI graphic refreshes with an accurate count of that pages affective content.
 
 #######################Installation instructions#######################
 
-First unzip the folder
+First download and unzip the folder
 
 Then
 
