@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "CALM",
-    "description": "Computational Assessment and Limitation of Madness",
+    "name": "AMI",
+    "description": "Affect Mix Index",
     "permissions": ["tabs", "*://*.twitter.com/*"],
     "version": "1.0",
     "icons": {
