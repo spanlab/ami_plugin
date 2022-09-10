@@ -4,23 +4,23 @@ The AMI plugin enables social media users to measure and analyze the affective c
 
 How it works
 ------------
-AMI works by reading in each tweet and then scoring each word in the tweet with a positive or negative integer based on this dictionary (https://github.com/soops/sentimood). Then based on the sum of all the words in the tweet AMI labels each tweet as primarily containing one of five affective categories: High Arousal Negative (HAN), Low Arousal Negative (LAN), Neutral (NEU), Low Arousal Positive (LAP), or High Arousal Positive (HAP).
+AMI works by reading in each post and then scoring each word in the tweet with a positive or negative integer based on this dictionary (https://github.com/soops/sentimood). Then based on the sum of all the words in the post, AMI labels each post as primarily containing one of five affective categories: High Arousal Negative (HAN), Low Arousal Negative (LAN), Neutral (NEU), Low Arousal Positive (LAP), or High Arousal Positive (HAP).
 
-As of now this only works on chrome.
+Currently, the plugin only works on the Chrome browser (stay tuned for a Safari update).
 
 You do not need a twitter account for this to work.
-If you don't have an account you can go here: https://twitter.com/explore
+If you don't have an account, you can go here: https://twitter.com/explore
 
-AMI will overlay a continuously updated graphic on twitters UI to show you the affective breakdown of the current twitter page. (working to code different adaptive display options)
+The AMI plugin will overlay a continuously updated graphic on twitter's User Interface to show you the affective breakdown of the current twitter stream. (future versions may code different adaptive display options)
 
-Every time you visit a different twitter feed or page on twitter you must reload the page so that the AMI graphic refreshes with an accurate count of that pages affective content. (automatic page refresh coming soon)
+Every time you visit a different feed or page on twitter you must reload the page so that the AMI graphic can refresh with an accurate count of that page's affective content. (future versions may include an automatic page refresh)
 
 Installation
 ------------
 First download and unzip the folder
 <img width="1080" alt="ami_dwnld_instr" src="https://user-images.githubusercontent.com/1163119/189460856-3e9f0923-c62c-4c38-bbde-3e7da87ba390.png">
 
-Then
+Then...
 
 Mac:
 Open Chrome
