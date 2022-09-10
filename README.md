@@ -25,12 +25,18 @@ Then...
 Mac:
 Open Chrome
 Go to Window --> Extensions
+<img width="804" alt="ami_chome_ext" src="https://user-images.githubusercontent.com/1163119/189463233-ceb34315-1647-4036-aa03-c8596155249e.png">
+
+
 Toggle on "Developer Mode" on the upper right corner
 Click "Load Unpacked"
+<img width="674" alt="ami_dev_mode" src="https://user-images.githubusercontent.com/1163119/189463352-c370808f-66f4-4a07-905c-e43f59e7e01d.png">
+
 Navigate to the where you saved the folder, click on it
 Click Select
+<img width="676" alt="ami_select_ext" src="https://user-images.githubusercontent.com/1163119/189463647-ad370633-82ad-4b5b-93ff-6ee2b9139db7.png">
+
 Check to make sure you can see the extension is installed
-Toggle off "Developer Mode"
 
 Windows:
 Open Chrome
@@ -40,4 +46,3 @@ Click "Load Unpacked"
 Navigate to the where you saved the folder, click on it
 Click Select
 Check to make sure you can see the extension is installed
-Toggle off "Developer Mode"
